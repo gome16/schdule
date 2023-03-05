@@ -1,0 +1,18 @@
+current directory: /Users/cork44/Desktop/programing/Schedule/scheduleapp/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/cork44/.rbenv/versions/3.2.0/bin/ruby -I /Users/cork44/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/cork44/Desktop/programing/Schedule/scheduleapp/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230225-46859-i810ai sitelibdir\=./.gem.20230225-46859-i810ai clean
+
+current directory: /Users/cork44/Desktop/programing/Schedule/scheduleapp/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230225-46859-i810ai sitelibdir\=./.gem.20230225-46859-i810ai
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/cork44/Desktop/programing/Schedule/scheduleapp/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230225-46859-i810ai sitelibdir\=./.gem.20230225-46859-i810ai install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230225-46859-i810ai/bootsnap
+
+current directory: /Users/cork44/Desktop/programing/Schedule/scheduleapp/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230225-46859-i810ai sitelibdir\=./.gem.20230225-46859-i810ai clean
